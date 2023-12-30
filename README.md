@@ -14,4 +14,8 @@ Feel free to search question name or number of a specific LeetCode problem. The 
 ## Let's Connect 🤝
 If you have suggestions, improvements, or just want to chat about coding and cats, don't hesitate to reach out. Together, we can make coding more enjoyable and share some virtual high-fives! 🙌
 
+<<<<<<< HEAD
 Happy coding! 😺✨
+=======
+Happy coding! 😺✨
+>>>>>>> ae96419dc2661628c8cc77e18b2a78de8e0d5565
