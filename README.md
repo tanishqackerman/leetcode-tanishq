@@ -16,6 +16,4 @@ If you have suggestions, improvements, or just want to chat about coding and cat
 
 <<<<<<< HEAD
 Happy coding! 😺✨
-=======
-Happy coding! 😺✨
->>>>>>> ae96419dc2661628c8cc77e18b2a78de8e0d5565
+>>>>>>>
