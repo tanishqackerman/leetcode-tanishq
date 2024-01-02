@@ -7,6 +7,7 @@ I'm Tanishq, a passionate problem-solver. When I'm not busy typing away on my ke
 
 ## Repository Overview 📂
 This repo is my coding playground, housing solutions to various LeetCode problems in Java ☕. Each problem is a new adventure, and I'm excited to share my solutions with you!
+Here is a sheet with a short explanation of all questions [LeetCode Sheet](https://docs.google.com/spreadsheets/d/1EJ8oFdVNb-ZKutQgN24SK_1i5lkmX7yBnD1sP4KZQ_A/edit#gid=0)
 
 ## How to Navigate 🗺️
 Feel free to search question name or number of a specific LeetCode problem. The code within is a result of my coding escapades, so brace yourself for some cat-tastic algorithms and data structures!
